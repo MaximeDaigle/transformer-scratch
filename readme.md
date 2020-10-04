@@ -157,78 +157,78 @@ that are "interesting".
 
 Best three (all from the GRU model):
 
-1.  nov. N N $<$eos$>$ the company said it will redeem \$ N million of
+1.  nov. N N `<eos>` the company said it will redeem \$ N million of
     assets and N N of the N N convertible subordinated debentures due
-    nov. N N $<$eos$>$ the notes are rated triple-a
+    nov. N N `<eos>` the notes are rated triple-a
 
-2.  N N $<$eos$>$ the key rate of the bills was quoted at N N to yield N
-    N $<$eos$>$ the N N N notes due N was N N to N N N to yield
+2.  N N `<eos>` the key rate of the bills was quoted at N N to yield N
+    N `<eos>` the N N N notes due N was N N to N N N to yield
 
 3.  macy & co. said it agreed to acquire its N N stake in the u.s. and
-    $<$unk$>$ concern $<$eos$>$ the company said it will sell its N N
+    `<unk>` concern `<eos>` the company said it will sell its N N
     stake in the u.s. and N N
 
 Three interesting:
 
-1.  sachs & co. and salomon brothers inc $<$eos$>$ the move is a
-    $<$unk$>$ of the $<$unk$>$ of the $<$unk$>$ $<$unk$>$ of the
-    $<$unk$>$ $<$unk$>$ of the $<$unk$>$ $<$unk$>$ $<$eos$>$ the
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ and $<$unk$>$ $<$unk$>$
-    $<$eos$>$ the $<$unk$>$ of the $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ and\
+1.  sachs & co. and salomon brothers inc `<eos>` the move is a
+    `<unk>` of the `<unk>` of the `<unk>` `<unk>` of the
+    `<unk>` `<unk>` of the `<unk>` `<unk>` `<eos>` the
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` and `<unk>` `<unk>`
+    `<eos>` the `<unk>` of the `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` and\
     It starts promising, but quickly gets in a loop and deteriorates.
 
-2.  at par to yield N N $<$eos$>$ the N N N notes due N fell N to N N to
-    yield N N $<$eos$>$ the N N N notes due N fell N to N N to yield N N
-    $<$eos$>$ the N N N notes due N fell N to N N to yield N N $<$eos$>$
+2.  at par to yield N N `<eos>` the N N N notes due N fell N to N N to
+    yield N N `<eos>` the N N N notes due N fell N to N N to yield N N
+    `<eos>` the N N N notes due N fell N to N N to yield N N `<eos>`
     the N N N notes due N fell N to N N\
     The words generated are good, but it gets stuck in a loop.
 
-3.  n't be able to pay the debt $<$eos$>$ the company said it would n't
-    identify the offer $<$eos$>$ the company said it would n't elaborate
-    $<$eos$>$ the company said it would n't elaborate $<$eos$>$ the
-    company said it would n't elaborate $<$eos$>$ the company said it
-    would n't elaborate $<$eos$>$ the company said it would n't
-    elaborate $<$eos$>$ the company said it will sell its stake in
+3.  n't be able to pay the debt `<eos>` the company said it would n't
+    identify the offer `<eos>` the company said it would n't elaborate
+    `<eos>` the company said it would n't elaborate `<eos>` the
+    company said it would n't elaborate `<eos>` the company said it
+    would n't elaborate `<eos>` the company said it would n't
+    elaborate `<eos>` the company said it will sell its stake in
     navigation mixte to\
     It gets stuck in a loop, but, eventually, gets out of it.
 
 Worst three:
 
-1.  and $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ and $<$unk$>$ $<$unk$>$ $<$eos$>$ the
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ and $<$unk$>$ $<$unk$>$
-    $<$eos$>$ the $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ and $<$unk$>$
-    $<$unk$>$ $<$eos$>$ the
+1.  and `<unk>` `<unk>` `<eos>` the `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` and `<unk>` `<unk>` `<eos>` the
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` and `<unk>` `<unk>`
+    `<eos>` the `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` and `<unk>`
+    `<unk>` `<eos>` the
 
-2.  of the $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$
+2.  of the `<unk>` `<eos>` the `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<eos>` the `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<eos>` the `<unk>` `<unk>` `<unk>`
+    `<unk>`
 
-3.  $<$eos$>$ but the company 's $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$eos$>$ the
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$ $<$unk$>$ $<$eos$>$ the $<$unk$>$ $<$unk$>$
-    $<$unk$>$ $<$unk$>$
-
-[^1]: See <https://arxiv.org/abs/1706.03762> for more details.
+3.  `<eos>` but the company 's `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<eos>` the `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<eos>` the `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<eos>` the `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<eos>` the
+    `<unk>` `<unk>` `<unk>` `<unk>` `<unk>` `<unk>`
+    `<unk>` `<unk>` `<unk>` `<eos>` the `<unk>` `<unk>`
+    `<unk>` `<unk>`
+    
+    
 
 March 17th, 2020
