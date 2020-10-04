@@ -245,7 +245,6 @@ class GRU(nn.Module): # Implement a stacked GRU RNN
         self.batch_size = batch_size
         # TODO ========================
 
-        # WordEmbedding(n_units, vocab)?
         self.word_embeddings = nn.Embedding(self.vocab_size,self.emb_size)
 
         # Create "reset gate" layers
