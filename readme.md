@@ -1,6 +1,6 @@
 # GRU and Transformer
 
-Content:
+Content
 1. Implementation of a stacked **gated
 recurrent units (GRUs)** from a simple RNN implementation
 2. Implementation of the **attention module of a transformer**
