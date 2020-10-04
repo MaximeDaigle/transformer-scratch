@@ -140,7 +140,7 @@ descent or the ADAM optimizer. The training loop is provided in
 curves (train and validation) of PPL over both epochs and
 wall-clock-time are in the folder images.
 
-![Best Validation PPL for each experiment](img/table_result.png)
+![Best Validation PPL for each experiment](images/table_result.png)
 
 [\[table\_result\]]{#table_result label="table_result"}
 
