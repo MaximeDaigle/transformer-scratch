@@ -1,9 +1,9 @@
 # GRU and Transformer
 
 Content
-1. Implementation of a stacked **gated
-recurrent units (GRUs)** from a simple RNN implementation
-2. Implementation of the **attention module of a transformer**
+1. Implementation of a stacked 
+[**gated recurrent units (GRUs)**](https://github.com/MaximeDaigle/transformer-scratch/blob/main/models.py#L221)from a simple RNN implementation
+2. Implementation of the [**Multi-head attention**](https://github.com/MaximeDaigle/transformer-scratch/blob/main/models.py#L515) module of a transformer
 3. Training of these 3 models (RNN, GRU, and Transformer) on a next-step prediction task
 4. Generation of samples by both the RNN and GRU models
 
@@ -12,6 +12,8 @@ recurrent units (GRUs)** from a simple RNN implementation
 * Demonstration that dropout is equivalent to L2 except that the regularization coefficient of each weight is scaled in function of the feature’s values.
 * Exploration of how different parameter initializations affect the activations of a network
 * Derivation of the gradients of a Bidirectional RNN
+
+
 
 ## Gated Recurrent Units (GRU)
 
