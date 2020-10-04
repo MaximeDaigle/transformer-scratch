@@ -1,18 +1,9 @@
----
-title: |
-     []{.medium}\
-     - Programming Part\
-    \
----
-
-\fancyhead{}
-\fancyfoot{}
 **Date: March 17th, 2020**
 
-#### GRU vs Transformer
+# GRU and Transformer
 
 4 parts project. Part 1 consists of implementing a stacked **gated
-recurrent units (GRUs)** from a simple RNN implemntation, . Part 2 is
+recurrent units (GRUs)** from a simple RNN implementation, . Part 2 is
 the implementation of the **attention module of a transformer network**.
 Part 3 consist of training these 3 models (RNN, GRU, and Transformer)
 using a variety of different optimizers and hyperparameter settings and
@@ -56,19 +47,9 @@ this vocabulary is replaced by `<unk>`. For the transformer network,
 positional information (an embedding of the position in the source
 sequence) for each token is also included in the input sequence.
 
-\setlength{\parindent}{0cm}
--1\>0
-
 Part
 =====
 
-\setcounter{partCounter}{1}
-\nobreak
-\extramarks{}{Problem \arabic{homeworkProblemCounter} continued on next page\ldots}
-\nobreak{}
-\nobreak
-\extramarks{Problem \arabic{homeworkProblemCounter} (continued)}{Problem \arabic{homeworkProblemCounter} continued on next page\ldots}
-\nobreak{}
 #### Implementing an RNN with Gated Recurrent Units (GRU)
 
 \vspace{-\baselineskip}
