@@ -141,8 +141,7 @@ curves (train and validation) of PPL over both epochs and
 wall-clock-time are in the folder images.
 
 ![Best Validation PPL for each experiment](images/table_result.png)
-
-[\[table\_result\]]{#table_result label="table_result"}
+Best Validation PPL for each experiment
 
 
 ## Comparison of generated samples 
