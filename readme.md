@@ -6,7 +6,7 @@ recurrent units (GRUs)** from a simple RNN implementation
 2. Implementation of the **attention module of a transformer**
 3. Training of these 3 models (RNN, GRU, and Transformer)
 using a variety of different optimizers and hyperparameter settings
-4. Generation of samples from the trained models.
+4. Generation of samples by both the RNN and GRU models
 
 #### Summary
 
