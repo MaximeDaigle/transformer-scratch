@@ -1,11 +1,12 @@
 # GRU and Transformer
 
-4 parts project. Part 1 consists of implementing a stacked **gated
-recurrent units (GRUs)** from a simple RNN implementation, . Part 2 is
-the implementation of the **attention module of a transformer network**.
-Part 3 consist of training these 3 models (RNN, GRU, and Transformer)
-using a variety of different optimizers and hyperparameter settings and
-Part 4 consist of generating samples from the trained models.
+Content:
+1. Implementation of a stacked **gated
+recurrent units (GRUs)** from a simple RNN implementation
+2. Implementation of the **attention module of a transformer**
+3. Training of these 3 models (RNN, GRU, and Transformer)
+using a variety of different optimizers and hyperparameter settings
+4. Generation of samples from the trained models.
 
 #### Summary
 
