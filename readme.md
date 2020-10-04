@@ -89,7 +89,7 @@ this vocabulary is replaced by `<unk>`. For the transformer network,
 positional information (an embedding of the position in the source
 sequence) for each token is also included in the input sequence.
 
-### Loss
+#### Loss
 
 Unlike in classification problems, where the performance metric is
 typically accuracy, in language modelling, the performance metric is
@@ -105,7 +105,7 @@ sequences. For Penn Treebank in particular, the test set is treated as a
 single sequence (i.e. N=1). The purpose of this part is to perform
 model exploration.
 
-### Results
+#### Results
 
 The three architectures are trained using either stochastic gradient
 descent or the ADAM optimizer. The training loop is provided in
