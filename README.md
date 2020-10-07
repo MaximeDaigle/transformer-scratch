@@ -7,7 +7,7 @@ Content
 3. Training of these 3 models (RNN, GRU, and Transformer) on a next-step prediction task
 4. Generation of samples by both the RNN and GRU models
 
-[Bonus theoretical content](https://github.com/MaximeDaigle/transformer-scratch/blob/main/theoretical-work.pdf) including:
+#### [Bonus theoretical content](https://github.com/MaximeDaigle/transformer-scratch/blob/main/theoretical-work.pdf) including:
 * Demonstration that SGD with an estimate of the first moment of the gradient using an exponential running average is equivalent to using momentum, and is biased by a scaling factor.
 * Demonstration that dropout is equivalent to L2 except that the regularization coefficient of each weight is scaled in function of the feature’s values.
 * Exploration of how different parameter initializations affect the activations of a network
